@@ -4,7 +4,7 @@ In recent years, several works have proposed highly accurate CNNbased pornograph
 
 ## Proposal
 
-<img src="./Proposta/proposta.png" />
+<img src="Proposta/proposal.png" />
 
 
 ## Dataset
